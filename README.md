@@ -6,5 +6,5 @@ p5.js Reference: https://p5js.org/reference/
 Code written by Jared Jacobson
 
 TODO:
-- Only bring clicked cells back to life
 - Allow user to create an initial state before starting the simulation
+- Allow user to spawn premade patterns
